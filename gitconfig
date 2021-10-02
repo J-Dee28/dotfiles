@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jdoran28@gmail.com
+	name = jeff doran
